@@ -4,7 +4,7 @@ The console is the first part of the **AirBnB clone** project which aims to depl
 
 ## Overview
 
-This first part of the project focuses on creating a command interpreter that allows to:  
+This first and starting of the project focuses on creating a command interpreter that allows to:  
 - create the data model.  
 - manage (create, update and destroy) objects via a console.  
 - store and persist objects to a file (JSON file).  
