@@ -82,8 +82,7 @@ $
 
 ```
 
-But also in non-interactive mode: (like the [Shell project](https://github.com/Blessingdev233/simple_shell.git) in C)
-
+But also in non-interactive mode: (https://github.com/Kwapee/simple-shell)
 ```
 $ echo "help" | ./console.py
 (hbnb)
